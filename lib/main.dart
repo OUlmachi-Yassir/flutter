@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Navigation App',
       theme: ThemeData(
-        primarySwatch: Colors.amber,
+        primarySwatch: Colors.yellow,
       ),
       home: const MainScreen(),
     );
